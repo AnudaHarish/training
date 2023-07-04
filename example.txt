@@ -1,1 +1,1 @@
-"This is from my-branch"
+Removing the previus content from the two files
